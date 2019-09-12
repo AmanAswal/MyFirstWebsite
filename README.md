@@ -1,3 +1,2 @@
 # Hello
-Delete this text
 
